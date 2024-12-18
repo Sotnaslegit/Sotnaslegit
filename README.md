@@ -36,7 +36,17 @@ Agora no design, comecei a ter pequenos flertes com essa área em meados de 2022
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Sotnaslegit&theme=dark)
 
+## Bobeiras🦧:
+
+Número total de visitantes:
+
+<img
+    src="https://profile-counter.glitch.me/Sotnaslegit/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+
 ## Contate-me! :D
+
 <!--
 **Sotnaslegit/Sotnaslegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
