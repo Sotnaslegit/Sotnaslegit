@@ -16,7 +16,7 @@
 
 ## Um pouco sobre mim 🐱‍👓:
 
-Atualmente tenho 16 anos e comecei a programar em (06/09/2024) quando me surgiu uma oportunidade de bolsa no Senai. Como todo bom programador, a minha infância foi em voltade eletronicos e sonhando com meu próprio computador, e como todo bom programador eu comecei com códigos simples no cmd.
+Atualmente tenho 16 anos e comecei a programar em (06/09/2024) quando me surgiu uma oportunidade de bolsa no Senai. Como todo bom programador, a minha infância foi em volta de eletrônicos e sonhando com meu próprio computador, e como todo bom programador eu comecei com códigos simples no cmd.
 
 Desde pequeno eu tive o sonho de ser músico, estudei bastante e hoje consigo fazer alguns sons interessantes como hobby no Fruity Loops, plataforma cujo eu acredito ter um amplo conhecimento.
 
