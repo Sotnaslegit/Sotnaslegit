@@ -1,15 +1,11 @@
 <h1 align="center">Olá! 👋 Eu sou Erick!</h1>
 
-<p align="center">
-  💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎯 Sempre aprendendo
-</p>
-
 ---
 
-### 🚀 Sobre mim
+### 🙆🏻 Sobre mim
 
-- 🎓 Estudante de Técnico em **Informática para Internet** pelo **SENAI**
-- 🌱 Atualmente aprendendo desenvolvimento web (HTML, CSS, JS e mais)
+- 🎓 Cursado em Técnico em **Informática para Internet** pelo **SENAI**
+- 🌱 Atualmente estudando desenvolvimento web (React, CSS, JS e mais)
 - 🔭 Trabalhando em pequenos projetos e aprendendo novas stacks
 - 🤝 Sempre aberta a colaborar e trocar ideias com outros devs
 
@@ -30,20 +26,12 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sotnaslegit&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotnaslegit&layout=compact&theme=radical" alt="Top Langs" height="165">
-</p>
-
----
-
 ### ⭐ Meus Projetos em Destaque
 
-- **[🌄|CCMV](https://github.com/Sotnaslegit/conselho-comunitario-mv)**  
-  Trabalho em conjunto feito em parceiria com o Conselho Comunitário do Monte Verde que nos ensinou a trabalhar em equipe e utilizar o github de forma correta. Usamos HTML5, CSS3 e o Bootstrap.
-  
+- **[🌄 CCMV - Conselho Comunitário Monte Verde](https://github.com/Sotnaslegit/conselho-comunitario-mv)** 
+> Site institucional desenvolvido em equipe para uma ONG real, 
+> com deploy no GitHub Pages. Tecnologias: HTML, CSS, Bootstrap e JavaScript.
+
 ---
 
 ### 🌍 Conecte-se comigo
